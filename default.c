@@ -5,6 +5,6 @@
 int main() {
    int num;
    scanf("%d", &num);
-   printf("Hello, %d World!", num);
+   printf("%d World!", num);
    return 0;
 }
