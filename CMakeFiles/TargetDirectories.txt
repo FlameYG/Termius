@@ -1,0 +1,3 @@
+/home/Flame/yg/CMakeFiles/rebuild_cache.dir
+/home/Flame/yg/CMakeFiles/edit_cache.dir
+/home/Flame/yg/CMakeFiles/CMake_test.dir
