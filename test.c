@@ -2,5 +2,8 @@
 
 int main(void)
 {
-	printf("hello");
+	int a;
+	scanf("%d", &a);
+	printf("hello, %d\n", a);
+	return 0;
 }
